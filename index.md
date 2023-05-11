@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
-h1: hey its just AJ thoughts
-----
+<h1>Welcome to my blog<h1>
+<h3> Hey there its just AJ thoughts <h3>
+
 
 
